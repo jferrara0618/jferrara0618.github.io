@@ -1,2 +1,5 @@
-# jferrara0618.github.io
-Website to display Resume and Projects for John Ferrara
+# John Ferrara - Professional Portfolio
+
+<img src="john_headshot.jpeg" width="200" alt="John's Headshot">
+
+Welcome to my portfolio! I'm a Solutions Engineer transitioning to Data Analytics...
